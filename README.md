@@ -7,14 +7,10 @@ Highload Course. Ex 22
 
 ![1.png](resources/1.png)
 
-2. AWS
+2. Вигляд до коміту
 
 ![2.png](resources/2.png)
 
-3. Вигляд до коміту
+3. Вигляд після коміту 
 
 ![3.png](resources/3.png)
-
-4. Вигляд після коміту 
-
-![4.png](resources/4.png)
