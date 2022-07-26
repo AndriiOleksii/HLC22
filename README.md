@@ -1,7 +1,16 @@
-## .NET Core CI/CD on the AWS Cloud—Quick Start
+# HLC22
+Highload Course. Ex 22
 
-For architectural details, step-by-step instructions, and customization options, see the [deployment guide](https://fwd.aws/yewap).
+За основу взято aws-quickstart/quickstart-dotnetcore-cicd
 
-To post feedback, submit feature ideas, or report bugs, use the **Issues** section of this GitHub repo. 
+1. Реалізоване рішення, яке надає авс. Схема рішення
 
-To submit code for this Quick Start, see the [AWS Quick Start Contributor's Kit](https://aws-quickstart.github.io/).
+![1.png](resources/1.png)
+
+2. Вигляд до коміту
+
+![2.png](resources/2.png)
+
+3. Вигляд після коміту 
+
+![3.png](resources/3.png)
